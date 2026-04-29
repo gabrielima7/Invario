@@ -103,5 +103,3 @@ If `invario_ledger_integrity_status` drops to `0`, the ledger is cryptographical
 - **Non-Root Containers**: Docker image runs as `invario` user.
 - **Input Validation**: All inputs are treated as hostile until validated by Guards.
 
----
-*Built with ❤️ by the Invario Team.*
